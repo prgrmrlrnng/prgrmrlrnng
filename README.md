@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prgrmr7
 - 👀 I’m interested in learn to program
-- 🌱 I’m currently learning the basics of the programming area
+- 🌱 I’m currently learning Java SE
 - 💞️ I’m looking to collaborate on any useful task for people's lives
 
 - 📫 How to reach me (just here for now)
